@@ -24,5 +24,9 @@
 - Learn how to troubleshoot problems in a vSphere environment.
 - Learn how to backup and restore a vSphere environment.
 
+### Reference
+https://www.vmware.com/learning.html
+
+https://www.linkedin.com/learning/paths/prepare-for-the-vmware-certified-professional-data-center-virtualization-2022-vcp-dcv-certification-exam?u=2045532
 
 
